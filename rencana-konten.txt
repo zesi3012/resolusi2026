@@ -5,4 +5,6 @@ rencana konten 2026
 2. membuat konten coding.
   a. php.
   b. java.
+  c. javascript
+  d. phyton
 3. membuat konten vlog.
