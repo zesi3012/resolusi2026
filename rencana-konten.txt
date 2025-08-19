@@ -3,4 +3,6 @@ rencana konten 2026
   a. mm setelah balapan.
   b. mm dan gemma.
 2. membuat konten coding.
+  a. php.
+  b. java.
 3. membuat konten vlog.
