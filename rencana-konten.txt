@@ -6,3 +6,6 @@ rencana konten 2026
   a. php.
   b. java.
 3. membuat konten vlog.
+  a. vlog memasak.
+  b. vlog jalan-jalan.
+  c. vlog bareng centig.
